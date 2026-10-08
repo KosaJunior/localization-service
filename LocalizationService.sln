@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationService", "LocalizationService\LocalizationService.csproj", "{6D963CD2-9DF1-4C0E-AB9F-5BAB477CEB8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LocalizationServiceGUI", "LocalizationServiceGUI\LocalizationServiceGUI.csproj", "{411CD17A-8C61-45AC-82D5-294ACCE8E69F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6D963CD2-9DF1-4C0E-AB9F-5BAB477CEB8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D963CD2-9DF1-4C0E-AB9F-5BAB477CEB8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D963CD2-9DF1-4C0E-AB9F-5BAB477CEB8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D963CD2-9DF1-4C0E-AB9F-5BAB477CEB8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411CD17A-8C61-45AC-82D5-294ACCE8E69F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411CD17A-8C61-45AC-82D5-294ACCE8E69F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411CD17A-8C61-45AC-82D5-294ACCE8E69F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411CD17A-8C61-45AC-82D5-294ACCE8E69F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
